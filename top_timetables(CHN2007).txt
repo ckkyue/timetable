@@ -1,0 +1,50 @@
+Timetable: ['L02,Danny Ho,Tue 10:30-12:00 (M1006),Fri 13:30-15:00 (M1008)', 'L03,Valerie Tang,Thu 16:30-19:30 (M803)', 'L07,Johnson Shum,Tue 13:30-16:30 (A305)', 'L07,Au Yik Sau,Thu 12:00-13:30 (A304),Fri 16:30-18:00 (A301)', 'L01,Ophelia Tung,Mon 15:00-17:00 (N303)', 'L01,Ling Chung Wing,Mon 09:00-12:00 (M706)']
+Durations: [5.0, 4.5, 0, 4.5, 3.0]
+Start times: [9.0, 10.5, 0, 12.0, 13.5]
+Score: 97.5
+
+Timetable: ['L02,Danny Ho,Tue 10:30-12:00 (M1006),Fri 13:30-15:00 (M1008)', 'L03,Valerie Tang,Thu 16:30-19:30 (M803)', 'L07,Johnson Shum,Tue 13:30-16:30 (A305)', 'L07,Au Yik Sau,Thu 12:00-13:30 (A304),Fri 16:30-18:00 (A301)', 'L03,Ophelia Tung,Wed 13:30-15:30 (D310)', 'L02,Ling Chung Wing,Wed 09:00-12:00 (A212)']
+Durations: [0, 4.5, 5.0, 4.5, 3.0]
+Start times: [0, 10.5, 9.0, 12.0, 13.5]
+Score: 97.5
+
+Timetable: ['L03,Timothy Chau,Tue 12:00-15:00 (M1008)', 'L03,Valerie Tang,Thu 16:30-19:30 (M803)', 'L05,Johnson Shum,Mon 15:00-18:00 (M907)', 'L07,Au Yik Sau,Thu 12:00-13:30 (A304),Fri 16:30-18:00 (A301)', 'L02,Ophelia TUng,Fri 12:00-14:00 (N201)', 'L01,Ling Chung Wing,Mon 09:00-12:00 (M706)']
+Durations: [6.0, 3.0, 0, 4.5, 3.5]
+Start times: [9.0, 12.0, 0, 12.0, 12.0]
+Score: 95.0
+
+Timetable: ['L03,Timothy Chau,Tue 12:00-15:00 (M1008)', 'L03,Valerie Tang,Thu 16:30-19:30 (M803)', 'L05,Johnson Shum,Mon 15:00-18:00 (M907)', 'L07,Au Yik Sau,Thu 12:00-13:30 (A304),Fri 16:30-18:00 (A301)', 'L04,Amy Kong,Tue 16:30-18:30 (M909)', 'L01,Ling Chung Wing,Mon 09:00-12:00 (M706)']
+Durations: [6.0, 5.0, 0, 4.5, 1.5]
+Start times: [9.0, 12.0, 0, 12.0, 16.5]
+Score: 95.0
+
+Timetable: ['L06,Timothy Chau,Thu 16:30-19:30 (M906)', 'L02,Valerie Tang,Mon 16:30-19:30 (M803)', 'L07,Johnson Shum,Tue 13:30-16:30 (A305)', 'L07,Au Yik Sau,Thu 12:00-13:30 (A304),Fri 16:30-18:00 (A301)', 'L02,Ophelia TUng,Fri 12:00-14:00 (N201)', 'L01,Ling Chung Wing,Mon 09:00-12:00 (M706)']
+Durations: [6.0, 3.0, 0, 4.5, 3.5]
+Start times: [9.0, 13.5, 0, 12.0, 12.0]
+Score: 95.0
+
+Timetable: ['L02,Danny Ho,Tue 10:30-12:00 (M1006),Fri 13:30-15:00 (M1008)', 'L03,Valerie Tang,Thu 16:30-19:30 (M803)', 'L05,Johnson Shum,Mon 15:00-18:00 (M907)', 'L07,Au Yik Sau,Thu 12:00-13:30 (A304),Fri 16:30-18:00 (A301)', 'L04,Amy Kong,Tue 16:30-18:30 (M909)', 'L01,Ling Chung Wing,Mon 09:00-12:00 (M706)']
+Durations: [6.0, 3.5, 0, 4.5, 3.0]
+Start times: [9.0, 10.5, 0, 12.0, 13.5]
+Score: 92.5
+
+Timetable: ['L01,Danny Ho,Tue 09:00-10:30 (M1006),Fri 12:00-13:30 (M1008)', 'L03,Valerie Tang,Thu 16:30-19:30 (M803)', 'L07,Johnson Shum,Tue 13:30-16:30 (A305)', 'L07,Au Yik Sau,Thu 12:00-13:30 (A304),Fri 16:30-18:00 (A301)', 'L01,Ophelia Tung,Mon 15:00-17:00 (N303)', 'L01,Ling Chung Wing,Mon 09:00-12:00 (M706)']
+Durations: [5.0, 4.5, 0, 4.5, 3.0]
+Start times: [9.0, 9.0, 0, 12.0, 12.0]
+Score: 90.0
+
+Timetable: ['L01,Danny Ho,Tue 09:00-10:30 (M1006),Fri 12:00-13:30 (M1008)', 'L03,Valerie Tang,Thu 16:30-19:30 (M803)', 'L07,Johnson Shum,Tue 13:30-16:30 (A305)', 'L07,Au Yik Sau,Thu 12:00-13:30 (A304),Fri 16:30-18:00 (A301)', 'L03,Ophelia Tung,Wed 13:30-15:30 (D310)', 'L02,Ling Chung Wing,Wed 09:00-12:00 (A212)']
+Durations: [0, 4.5, 5.0, 4.5, 3.0]
+Start times: [0, 9.0, 9.0, 12.0, 12.0]
+Score: 90.0
+
+Timetable: ['L03,Timothy Chau,Tue 12:00-15:00 (M1008)', 'L03,Valerie Tang,Thu 16:30-19:30 (M803)', 'L05,Johnson Shum,Mon 15:00-18:00 (M907)', 'L07,Au Yik Sau,Thu 12:00-13:30 (A304),Fri 16:30-18:00 (A301)', 'L02,Ophelia TUng,Fri 12:00-14:00 (N201)', 'L02,Ling Chung Wing,Wed 09:00-12:00 (A212)']
+Durations: [3.0, 3.0, 3.0, 4.5, 3.5]
+Start times: [15.0, 12.0, 9.0, 12.0, 12.0]
+Score: 90.0
+
+Timetable: ['L03,Timothy Chau,Tue 12:00-15:00 (M1008)', 'L03,Valerie Tang,Thu 16:30-19:30 (M803)', 'L05,Johnson Shum,Mon 15:00-18:00 (M907)', 'L07,Au Yik Sau,Thu 12:00-13:30 (A304),Fri 16:30-18:00 (A301)', 'L03,Ophelia Tung,Wed 13:30-15:30 (D310)', 'L02,Ling Chung Wing,Wed 09:00-12:00 (A212)']
+Durations: [3.0, 3.0, 5.0, 4.5, 1.5]
+Start times: [15.0, 12.0, 9.0, 12.0, 16.5]
+Score: 90.0
+
