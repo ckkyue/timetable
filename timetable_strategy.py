@@ -20,17 +20,16 @@ for folder in folders:
 #            "L07,Timothy Chau,Mon 09:00-12:00 (A314)"
 #            ]
 
-SCM3202 = ["L03,Timothy Chau,Tue 12:00-15:00 (M1008)",
-           "L04,Timothy Chau,Wed 09:00-12:00 (D410)",
-           "L05,Timothy Chau,Thu 10:30-13:30 (A213)",
-           "L06,Timothy Chau,Thu 16:30-19:30 (M906)",
-           "L07,Timothy Chau,Mon 09:00-12:00 (A314)"
+SCM3202 = ["L05,Timothy Chau,Thu 10:30-13:30 (A213)"
            ]
 
-SCM3101 = ["L01,Valerie Tang,Mon 09:00-12:00 (M803)",
-           "L02,Valerie Tang,Mon 16:30-19:30 (M803)",
-           "L03,Valerie Tang,Thu 16:30-19:30 (M803)",
-           "L04,Valerie Tang,Fri 09:00-12:00 (M803)"
+# SCM3101 = ["L01,Valerie Tang,Mon 09:00-12:00 (M803)",
+#            "L02,Valerie Tang,Mon 16:30-19:30 (M803)",
+#            "L03,Valerie Tang,Thu 16:30-19:30 (M803)",
+#            "L04,Valerie Tang,Fri 09:00-12:00 (M803)"
+#            ]
+
+SCM3101 = ["L01,Valerie Tang,Mon 09:00-12:00 (M803)"
            ]
 
 ACY2021 = ["L05,Johnson Shum,Mon 15:00-18:00 (M907)",
