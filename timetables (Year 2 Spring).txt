@@ -1,60 +1,60 @@
-Timetable 1: ['L05,Timothy Chau,Thu 10:30-13:30 (A213)', 'L01,Valerie Tang,Mon 09:00-12:00 (M803)', 'L07,Johnson Shum,Tue 13:30-16:30 (A305)', 'L09,Lam Wing Kin,Tue 12:00-13:30 (M1006),Fri 12:00-13:30 (M907)', 'L01,Ophelia Tung,Mon 15:00-17:00 (N303)', 'L02,Ling Chung Wing,Wed 09:00-12:00 (A212)']
+Timetable 1: ['L05,Timothy Chau,Thu 10:30-13:30 (A213)', 'L01,Valerie Tang,Mon 09:00-12:00 (M803)', 'L05,Johnson Shum,Mon 15:00-18:00 (M907)', 'L10,Lam Wing Kin,Tue 15:00-16:30 (A303),Thu 09:00-10:30 (A212)', 'L03,Ophelia Tung,Wed 13:30-15:30 (D310)', 'L02,Ling Chung Wing,Wed 09:00-12:00 (A212)']
+Durations: [6.0, 1.5, 5.0, 4.5, 0]
+Start times: [9.0, 15.0, 9.0, 9.0, 0]
+End times: [18.0, 16.5, 15.5, 13.5, 0]
+Score: 77.5
+
+Timetable 2: ['L05,Timothy Chau,Thu 10:30-13:30 (A213)', 'L01,Valerie Tang,Mon 09:00-12:00 (M803)', 'L07,Johnson Shum,Tue 13:30-16:30 (A305)', 'L09,Lam Wing Kin,Tue 12:00-13:30 (M1006),Fri 12:00-13:30 (M907)', 'L01,Ophelia Tung,Mon 15:00-17:00 (N303)', 'L02,Ling Chung Wing,Wed 09:00-12:00 (A212)']
 Durations: [5.0, 4.5, 3.0, 3.0, 1.5]
 Start times: [9.0, 12.0, 9.0, 10.5, 12.0]
 End times: [17.0, 16.5, 12.0, 13.5, 13.5]
 Score: 77.5
 
-Timetable 2: ['L05,Timothy Chau,Thu 10:30-13:30 (A213)', 'L01,Valerie Tang,Mon 09:00-12:00 (M803)', 'L07,Johnson Shum,Tue 13:30-16:30 (A305)', 'L09,Lam Wing Kin,Tue 12:00-13:30 (M1006),Fri 12:00-13:30 (M907)', 'L03,Ophelia Tung,Wed 13:30-15:30 (D310)', 'L02,Ling Chung Wing,Wed 09:00-12:00 (A212)']
+Timetable 3: ['L05,Timothy Chau,Thu 10:30-13:30 (A213)', 'L01,Valerie Tang,Mon 09:00-12:00 (M803)', 'L07,Johnson Shum,Tue 13:30-16:30 (A305)', 'L09,Lam Wing Kin,Tue 12:00-13:30 (M1006),Fri 12:00-13:30 (M907)', 'L03,Ophelia Tung,Wed 13:30-15:30 (D310)', 'L02,Ling Chung Wing,Wed 09:00-12:00 (A212)']
 Durations: [3.0, 4.5, 5.0, 3.0, 1.5]
 Start times: [9.0, 12.0, 9.0, 10.5, 12.0]
 End times: [12.0, 16.5, 15.5, 13.5, 13.5]
 Score: 77.5
 
-Timetable 3: ['L05,Timothy Chau,Thu 10:30-13:30 (A213)', 'L01,Valerie Tang,Mon 09:00-12:00 (M803)', 'L07,Johnson Shum,Tue 13:30-16:30 (A305)', 'L09,Lam Wing Kin,Tue 12:00-13:30 (M1006),Fri 12:00-13:30 (M907)', 'L05,Amy Kong,Fri 15:00-17:00 (N304)', 'L02,Ling Chung Wing,Wed 09:00-12:00 (A212)']
+Timetable 4: ['L05,Timothy Chau,Thu 10:30-13:30 (A213)', 'L01,Valerie Tang,Mon 09:00-12:00 (M803)', 'L07,Johnson Shum,Tue 13:30-16:30 (A305)', 'L09,Lam Wing Kin,Tue 12:00-13:30 (M1006),Fri 12:00-13:30 (M907)', 'L05,Amy Kong,Fri 15:00-17:00 (N304)', 'L02,Ling Chung Wing,Wed 09:00-12:00 (A212)']
 Durations: [3.0, 4.5, 3.0, 3.0, 3.5]
 Start times: [9.0, 12.0, 9.0, 10.5, 12.0]
 End times: [12.0, 16.5, 12.0, 13.5, 17.0]
 Score: 77.5
 
-Timetable 4: ['L05,Timothy Chau,Thu 10:30-13:30 (A213)', 'L01,Valerie Tang,Mon 09:00-12:00 (M803)', 'L05,Johnson Shum,Mon 15:00-18:00 (M907)', 'L10,Lam Wing Kin,Tue 15:00-16:30 (A303),Thu 09:00-10:30 (A212)', 'L03,Ophelia Tung,Wed 13:30-15:30 (D310)', 'L02,Ling Chung Wing,Wed 09:00-12:00 (A212)']
-Durations: [6.0, 1.5, 5.0, 4.5, 0]
-Start times: [9.0, 15.0, 9.0, 9.0, 0]
-End times: [18.0, 16.5, 15.5, 13.5, 0]
-Score: 72.5
-
 Timetable 5: ['L05,Timothy Chau,Thu 10:30-13:30 (A213)', 'L01,Valerie Tang,Mon 09:00-12:00 (M803)', 'L05,Johnson Shum,Mon 15:00-18:00 (M907)', 'L08,Au Yik Sau,Wed 13:30-15:00 (D409),Fri 09:00-10:30 (A214)', 'L02,Ophelia TUng,Fri 12:00-14:00 (N201)', 'L02,Ling Chung Wing,Wed 09:00-12:00 (A212)']
 Durations: [6.0, 0, 4.5, 3.0, 3.5]
 Start times: [9.0, 0, 9.0, 10.5, 9.0]
 End times: [18.0, 0, 15.0, 13.5, 14.0]
-Score: 70.0
+Score: 75.0
 
 Timetable 6: ['L05,Timothy Chau,Thu 10:30-13:30 (A213)', 'L01,Valerie Tang,Mon 09:00-12:00 (M803)', 'L05,Johnson Shum,Mon 15:00-18:00 (M907)', 'L08,Au Yik Sau,Wed 13:30-15:00 (D409),Fri 09:00-10:30 (A214)', 'L05,Amy Kong,Fri 15:00-17:00 (N304)', 'L02,Ling Chung Wing,Wed 09:00-12:00 (A212)']
 Durations: [6.0, 0, 4.5, 3.0, 3.5]
 Start times: [9.0, 0, 9.0, 10.5, 9.0]
 End times: [18.0, 0, 15.0, 13.5, 17.0]
-Score: 70.0
+Score: 75.0
 
-Timetable 7: ['L05,Timothy Chau,Thu 10:30-13:30 (A213)', 'L01,Valerie Tang,Mon 09:00-12:00 (M803)', 'L05,Johnson Shum,Mon 15:00-18:00 (M907)', 'L09,Lam Wing Kin,Tue 12:00-13:30 (M1006),Fri 12:00-13:30 (M907)', 'L03,Ophelia Tung,Wed 13:30-15:30 (D310)', 'L02,Ling Chung Wing,Wed 09:00-12:00 (A212)']
-Durations: [6.0, 1.5, 5.0, 3.0, 1.5]
-Start times: [9.0, 12.0, 9.0, 10.5, 12.0]
-End times: [18.0, 13.5, 15.5, 13.5, 13.5]
-Score: 70.0
+Timetable 7: ['L06,Timothy Chau,Thu 16:30-19:30 (M906)', 'L01,Valerie Tang,Mon 09:00-12:00 (M803)', 'L05,Johnson Shum,Mon 15:00-18:00 (M907)', 'L07,Au Yik Sau,Thu 12:00-13:30 (A304),Fri 16:30-18:00 (A301)', 'L02,Ophelia TUng,Fri 12:00-14:00 (N201)', 'L02,Ling Chung Wing,Wed 09:00-12:00 (A212)']
+Durations: [6.0, 0, 3.0, 4.5, 3.5]
+Start times: [9.0, 0, 9.0, 12.0, 12.0]
+End times: [18.0, 0, 12.0, 19.5, 18.0]
+Score: 75.0
 
-Timetable 8: ['L05,Timothy Chau,Thu 10:30-13:30 (A213)', 'L01,Valerie Tang,Mon 09:00-12:00 (M803)', 'L05,Johnson Shum,Mon 15:00-18:00 (M907)', 'L09,Lam Wing Kin,Tue 12:00-13:30 (M1006),Fri 12:00-13:30 (M907)', 'L05,Amy Kong,Fri 15:00-17:00 (N304)', 'L02,Ling Chung Wing,Wed 09:00-12:00 (A212)']
-Durations: [6.0, 1.5, 3.0, 3.0, 3.5]
-Start times: [9.0, 12.0, 9.0, 10.5, 12.0]
-End times: [18.0, 13.5, 12.0, 13.5, 17.0]
-Score: 70.0
+Timetable 8: ['L06,Timothy Chau,Thu 16:30-19:30 (M906)', 'L01,Valerie Tang,Mon 09:00-12:00 (M803)', 'L05,Johnson Shum,Mon 15:00-18:00 (M907)', 'L07,Au Yik Sau,Thu 12:00-13:30 (A304),Fri 16:30-18:00 (A301)', 'L03,Ophelia Tung,Wed 13:30-15:30 (D310)', 'L02,Ling Chung Wing,Wed 09:00-12:00 (A212)']
+Durations: [6.0, 0, 5.0, 4.5, 1.5]
+Start times: [9.0, 0, 9.0, 12.0, 16.5]
+End times: [18.0, 0, 15.5, 19.5, 18.0]
+Score: 75.0
 
 Timetable 9: ['L05,Timothy Chau,Thu 10:30-13:30 (A213)', 'L01,Valerie Tang,Mon 09:00-12:00 (M803)', 'L05,Johnson Shum,Mon 15:00-18:00 (M907)', 'L10,Lam Wing Kin,Tue 15:00-16:30 (A303),Thu 09:00-10:30 (A212)', 'L04,Amy Kong,Tue 16:30-18:30 (M909)', 'L02,Ling Chung Wing,Wed 09:00-12:00 (A212)']
 Durations: [6.0, 3.5, 3.0, 4.5, 0]
 Start times: [9.0, 15.0, 9.0, 9.0, 0]
 End times: [18.0, 18.5, 12.0, 13.5, 0]
-Score: 67.5
+Score: 72.5
 
-Timetable 10: ['L05,Timothy Chau,Thu 10:30-13:30 (A213)', 'L01,Valerie Tang,Mon 09:00-12:00 (M803)', 'L07,Johnson Shum,Tue 13:30-16:30 (A305)', 'L08,Au Yik Sau,Wed 13:30-15:00 (D409),Fri 09:00-10:30 (A214)', 'L01,Ophelia Tung,Mon 15:00-17:00 (N303)', 'L02,Ling Chung Wing,Wed 09:00-12:00 (A212)']
-Durations: [5.0, 3.0, 4.5, 3.0, 1.5]
-Start times: [9.0, 13.5, 9.0, 10.5, 9.0]
-End times: [17.0, 16.5, 15.0, 13.5, 10.5]
-Score: 67.5
+Timetable 10: ['L05,Timothy Chau,Thu 10:30-13:30 (A213)', 'L01,Valerie Tang,Mon 09:00-12:00 (M803)', 'L05,Johnson Shum,Mon 15:00-18:00 (M907)', 'L09,Lam Wing Kin,Tue 12:00-13:30 (M1006),Fri 12:00-13:30 (M907)', 'L03,Ophelia Tung,Wed 13:30-15:30 (D310)', 'L02,Ling Chung Wing,Wed 09:00-12:00 (A212)']
+Durations: [6.0, 1.5, 5.0, 3.0, 1.5]
+Start times: [9.0, 12.0, 9.0, 10.5, 12.0]
+End times: [18.0, 13.5, 15.5, 13.5, 13.5]
+Score: 70.0
 
